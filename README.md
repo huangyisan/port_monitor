@@ -17,4 +17,4 @@ huangyisan:~/Documents/qmtv/port_monitor (master)$ python main.py
 邮件发送成功
 ```
 
-#### 部署在jenkins机器。
+#### service needs 'nc' command
